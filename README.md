@@ -8,7 +8,10 @@ Repositório destinado ao armazenamento e compartilhamento dos arquivos de exerc
 - **/exercicio-2**: Diretório que contém os arquivos do segundo exercício (Casos de Uso).
   - **/imagensDiagramas**: Contém as imagens dos diagramas de Casos de Uso.
   - **/projetosAstah**: Contém os arquivos de projeto do Astah para os Casos de Uso.
-- **/exercicio-3**: Diretório que contém os arquivos do terceiro exercício (Diagrama de Classe de Implementação).
+- **/exercicio-3**: Diretório que contém os arquivos do terceiro exercício (Diagrama de Classe de Implementação - Inicial).
+  - **/imagensDiagramas**: Contém as imagens dos diagramas de Classe de Implementação.
+  - **/projetosAstah**: Contém os arquivos de projeto do Astah para o Diagrama de Classe.
+- **/exercicio-4**: Diretório que contém os arquivos do terceiro exercício (Diagrama de Classe de Implementação - Final).
   - **/imagensDiagramas**: Contém as imagens dos diagramas de Classe de Implementação.
   - **/projetosAstah**: Contém os arquivos de projeto do Astah para o Diagrama de Classe.
 - **README.md**: Este arquivo.
