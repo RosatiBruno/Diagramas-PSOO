@@ -12,11 +12,20 @@ Repositório destinado ao armazenamento e compartilhamento dos arquivos de exerc
   - **/imagensDiagramas**: Contém as imagens dos Diagramas de Classe de Implementação.
   - **/projetosAstah**: Contém os arquivos de projeto do Astah para o Diagrama de Classe de Implementação.
 - **/exercicio-4**: Diretório que contém os arquivos do quarto exercício (Diagrama de Classe de Implementação - Final).
-  - **/imagensDiagramas**: Contém as imagens dos diagramas de Classe de Implementação.
+  - **/imagensDiagramas**: Contém as imagens dos Diagramas de Classe de Implementação.
   - **/projetosAstah**: Contém os arquivos de projeto do Astah para o Diagrama de Classe de Implementação.
 - **/exercicio-5**: Diretório que contém os arquivos do quinto exercício (Diagrama de Sequência).
-  - **/imagensDiagramas**: Contém as imagens dos diagramas de Sequência.
+  - **/imagensDiagramas**: Contém as imagens dos Diagramas de Sequência.
   - **/projetosAstah**: Contém os arquivos de projeto do Astah para o Diagrama de Sequência.
+- **/exercicio-6**: Diretório que contém os arquivos do sexto exercício (Diagrama de Atividade [15 requisitos]).
+  - **/imagensDiagramas**: Contém a imagem do Diagrama de Atividade.
+  - **/projetosAstah**: Contém os arquivos de projeto do Astah para o Diagrama de Atividade.
+- **/exercicio-7**: Diretório que contém os arquivos do sétimo exercício (Diagrama de Implantação).
+  - **/imagensDiagramas**: Contém a imagem do Diagramas de Implantação.
+  - **/projetosAstah**: Contém os arquivos de projeto do Astah para o Diagrama de Implantação.
+- **/exercicio-8**: Diretório que contém os arquivos do oitavo exercício (PIM IV - Só o P.O.).
+  - Contém um arquivo Excel com o nome e o RA dos integrantes do grupo do PIM.
+  - Contém um arquivo Astah com todos os diagramas do PIM.
 - **README.md**: Este arquivo.
 
 ## Como Utilizar
